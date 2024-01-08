@@ -1,1 +1,1 @@
-kosdufgiosdfjgoidsfjgiosg
+Island Siege is a tower defense game where players earn money through mining to purchase troops, including warriors and archers. The objective is to resist incoming invasions and destroy the enemy's stronghold. Players can select friendly troops using the left mouse button. Pressing 'A' commands the selected troops to attack, and pressing 'K' orders them to start mining.
